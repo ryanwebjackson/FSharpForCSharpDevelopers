@@ -59,6 +59,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Chapter01.fs" />
     <Compile Include="Chapter02.fs" />
+    <Compile Include="CollectionFunctions.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <ItemGroup>
