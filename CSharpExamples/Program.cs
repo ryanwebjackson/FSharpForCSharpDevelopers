@@ -10,6 +10,8 @@ namespace CSharpExamples
     {
         static void Main(string[] args)
         {
+            new Chapter01();
+            Console.ReadLine();
         }
     }
 }
