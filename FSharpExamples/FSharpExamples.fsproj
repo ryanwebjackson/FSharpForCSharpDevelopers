@@ -61,6 +61,7 @@
     <Compile Include="Chapter02.fs" />
     <Compile Include="CollectionFunctions.fs" />
     <Compile Include="Program.fs" />
+    <Compile Include="Chapter07.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
